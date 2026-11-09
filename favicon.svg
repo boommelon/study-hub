@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- 两张叠放的卡片：代表「问答卡片复习」 -->
+  <rect x="14" y="8" width="38" height="46" rx="7" fill="#a8b1ff" transform="rotate(10 33 31)"/>
+  <rect x="10" y="12" width="38" height="46" rx="7" fill="#3e63dd"/>
+  <path d="M20 27h18M20 35h18M20 43h11" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+</svg>
